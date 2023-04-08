@@ -1,0 +1,5 @@
+pandas
+numpy
+flask
+-e .
+# if we want to install setup.py file we need to write -e . in requirement.txt file
